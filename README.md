@@ -1,9 +1,9 @@
 # Surf n' Shake Weather Analysis
 ## Overview
-### This weather analysis shows the weather data in Oahu, Hawaii to provide beneficial information for the business plan for investing in the Surf n' Shake Shop that provides surfing equiment and ice cream for locals and tourists. In this analysis, we used SQLAlchemy to analyze weather data for the months of June and December in Oahu in order to determine if the surf and ice cream shop business is sustainable all year round.
+This weather analysis shows the weather data in Oahu, Hawaii to provide beneficial information for the business plan for investing in the Surf n' Shake Shop that provides surfing equiment and ice cream for locals and tourists. In this analysis, we used SQLAlchemy to analyze weather data for the months of June and December in Oahu in order to determine if the surf and ice cream shop business is sustainable all year round.
 
 ## Results 
-### We extracted temperature data for June and December from 2010 to 2017 from Oahu and performed statistical analysis to compare temperature between June and December. Summary of statistics is shown in figure 1. Box and whisker plot is shown in figure 2 for visual comparison. Based on the summary data, we found three major differences between June and December.<br/>
+We extracted temperature data for June and December from 2010 to 2017 from Oahu and performed statistical analysis to compare temperature between June and December. Summary of statistics is shown in figure 1. Box and whisker plot is shown in figure 2 for visual comparison. Based on the summary data, we found three major differences between June and December.<br/>
 
 Figure 1. Statistical summary for June and December temperature.<br/>
 ![temp_summary](/Resources/temp_stats.png)<br/>
